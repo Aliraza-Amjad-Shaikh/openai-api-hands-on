@@ -2,7 +2,9 @@
 
 ## Overview
 
-This project demonstrates the use of the OpenAI API to create a versatile chatbot capable of generating text responses, creating images, generating image variations, and remembering past conversations. It leverages the `.env` file for secure API key management and implements a conversational memory feature to enhance user experience.## Features
+This project demonstrates the use of the OpenAI API to create a versatile chatbot capable of generating text responses, creating images, generating image variations, and remembering past conversations. It leverages the `.env` file for secure API key management and implements a conversational memory feature to enhance user experience.
+
+## Features
 
 -   **Chatbot**: Generates dynamic text responses using OpenAI's language models.
 -   **Image Generation**: Creates images based on text prompts using OpenAI's DALL-E.
@@ -73,4 +75,5 @@ This project demonstrates the use of the OpenAI API to create a versatile chatbo
 
 # Author
 Aliraza Amjad Shaikh
+
 https://www.linkedin.com/in/aliraza-shaikh-146b22357/
