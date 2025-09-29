@@ -73,7 +73,10 @@ This project demonstrates the use of the OpenAI API to create a versatile chatbo
 -   You can continue the conversation by providing follow-up prompts, and the chatbot will consider the previous context.
 
 
+### Give a Star ⭐ if you liked it. 
+
 # Author
 Aliraza Amjad Shaikh
 
 https://www.linkedin.com/in/aliraza-shaikh-146b22357/
+
